@@ -16,7 +16,7 @@ import java.security.SecureRandom;
  * @date 2021年10月14日14:38:35
  * @author yanwenkai
  */
-public class DesUtil {
+public class DESUtil {
 
 	private final static SecureRandom SR = new SecureRandom();
 	private static SecretKeyFactory keyFactory;
